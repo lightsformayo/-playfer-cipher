@@ -1,0 +1,11 @@
+C:\Users\avish\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\avish\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\avish\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\avish\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Playfair Code.csprojAssemblyReference.cache
+C:\Users\avish\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.PlayfairCode.resources
+C:\Users\avish\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\avish\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Playfair Code.csproj.GenerateResource.cache
+C:\Users\avish\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Playfair Code.csproj.CoreCompileInputs.cache
+C:\Users\avish\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\avish\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\avish\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.AboutBox1.resources
